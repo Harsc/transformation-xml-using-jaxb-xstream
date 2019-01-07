@@ -1,3 +1,3 @@
 jaxb 
 stream
-Jackson XML
+spring boot-JacksonXML
